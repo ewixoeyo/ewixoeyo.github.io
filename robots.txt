@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ewixoeyo.github.io/Dnp/sitemap_index.txt
+Sitemap: https://ewixoeyo.github.io/JSj/sitemap_index.txt
+Sitemap: https://ewixoeyo.github.io/iOT/sitemap_index.txt
+Sitemap: https://ewixoeyo.github.io/rYP/sitemap_index.txt
